@@ -1,6 +1,6 @@
 # MacOS saverScrape
 
-is a command-line tool for downloading and managing wallpapers and media files directly from specified URLs on macOS. It includes functionality for downloading files with progress tracking and managing downloaded files. The project is modular, with organized Python files for a cleaner structure.
+saverSrape is a command-line tool for downloading and managing wallpapers and media files directly from specified URLs on macOS. It includes functionality for downloading files with progress tracking and managing downloaded files. The project is modular, with organized Python files for a cleaner structure.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,8 +14,8 @@ is a command-line tool for downloading and managing wallpapers and media files d
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/unawarexi/.git
-   cd wallget
+   git clone https://github.com/unawarexi/Python_saverScrape_macOS.git
+   cd saverScrape
    ```
 2 **Install Requirements:**
 
@@ -24,7 +24,8 @@ is a command-line tool for downloading and managing wallpapers and media files d
 - Run with Administrator Privileges:
 
 Some functions require administrator privileges to access and manage system files. Run using sudo:
-3. **Starting WallGet:**
+
+3. **Starting saverScrape:**
 
 Run the main script to begin:
 ```bash
