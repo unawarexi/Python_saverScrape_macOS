@@ -69,7 +69,7 @@ saverScrap/
 **Disk Space Check:** Verifies available space before downloading files.
 **Process Management:** Option to kill the idleassetsd process to update download statuses in macOS settings.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
 ```bash
